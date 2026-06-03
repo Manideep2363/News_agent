@@ -1,0 +1,15 @@
+﻿apscheduler
+feedparser
+google-api-python-client
+google-auth
+google-auth-oauthlib
+groq
+langgraph
+python-dotenv
+requests
+psycopg2-binary
+fastapi
+uvicorn[standard]
+python-jose
+passlib
+email-validator
